@@ -2,3 +2,18 @@ githubの練習 vscodeの連帯とか初めてやったよ
 参考にした記事
 https://breezegroup.co.jp/202102/vscode-github-windows/
 https://git-study.web.app/section_1/settings/
+
+いい感じにコマンドを覚えてきたか？
+
+branchの作成
+git branch ブランチ名
+
+branchの確認
+git branch -a
+
+branchの移動
+git checkout ブランチ名
+
+リモートリポジトリにbranchを反映させる
+git push origin ブランチ名
+
